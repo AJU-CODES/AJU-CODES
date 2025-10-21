@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AJEETH
 - 👀 I’m interested in Developing ML and Data Science projetcs
-- 🌱 I’m currently learning Deep Learning and NLP
+- 🌱 I’m currently working as Data science Trainer
 - 📫 EMail : ajeethkumarg1437@gmail.com
 
 
